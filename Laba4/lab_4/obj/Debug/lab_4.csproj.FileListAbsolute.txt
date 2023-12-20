@@ -1,0 +1,15 @@
+D:\sell oop\lab_4\lab_4\bin\Debug\lab_4.exe.config
+D:\sell oop\lab_4\lab_4\bin\Debug\lab_4.exe
+D:\sell oop\lab_4\lab_4\bin\Debug\lab_4.pdb
+D:\sell oop\lab_4\lab_4\obj\Debug\lab_4.csproj.AssemblyReference.cache
+D:\sell oop\lab_4\lab_4\obj\Debug\lab_4.csproj.SuggestedBindingRedirects.cache
+D:\sell oop\lab_4\lab_4\obj\Debug\lab_4.csproj.CoreCompileInputs.cache
+D:\sell oop\lab_4\lab_4\obj\Debug\lab_4.exe
+D:\sell oop\lab_4\lab_4\obj\Debug\lab_4.pdb
+C:\Users\Fanera\Desktop\Laba4\lab_4\bin\Debug\lab_4.exe.config
+C:\Users\Fanera\Desktop\Laba4\lab_4\bin\Debug\lab_4.exe
+C:\Users\Fanera\Desktop\Laba4\lab_4\bin\Debug\lab_4.pdb
+C:\Users\Fanera\Desktop\Laba4\lab_4\obj\Debug\lab_4.csproj.AssemblyReference.cache
+C:\Users\Fanera\Desktop\Laba4\lab_4\obj\Debug\lab_4.csproj.CoreCompileInputs.cache
+C:\Users\Fanera\Desktop\Laba4\lab_4\obj\Debug\lab_4.exe
+C:\Users\Fanera\Desktop\Laba4\lab_4\obj\Debug\lab_4.pdb
