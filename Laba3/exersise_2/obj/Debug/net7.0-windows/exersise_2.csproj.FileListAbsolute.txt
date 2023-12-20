@@ -1,0 +1,33 @@
+D:\sell oop\lab_3\exersise_2\bin\Debug\net7.0-windows\exersise_2.exe
+D:\sell oop\lab_3\exersise_2\bin\Debug\net7.0-windows\exersise_2.deps.json
+D:\sell oop\lab_3\exersise_2\bin\Debug\net7.0-windows\exersise_2.runtimeconfig.json
+D:\sell oop\lab_3\exersise_2\bin\Debug\net7.0-windows\exersise_2.dll
+D:\sell oop\lab_3\exersise_2\bin\Debug\net7.0-windows\exersise_2.pdb
+D:\sell oop\lab_3\exersise_2\obj\Debug\net7.0-windows\exersise_2.csproj.AssemblyReference.cache
+D:\sell oop\lab_3\exersise_2\obj\Debug\net7.0-windows\exersise_2.Form1.resources
+D:\sell oop\lab_3\exersise_2\obj\Debug\net7.0-windows\exersise_2.csproj.GenerateResource.cache
+D:\sell oop\lab_3\exersise_2\obj\Debug\net7.0-windows\exersise_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\sell oop\lab_3\exersise_2\obj\Debug\net7.0-windows\exersise_2.AssemblyInfoInputs.cache
+D:\sell oop\lab_3\exersise_2\obj\Debug\net7.0-windows\exersise_2.AssemblyInfo.cs
+D:\sell oop\lab_3\exersise_2\obj\Debug\net7.0-windows\exersise_2.csproj.CoreCompileInputs.cache
+D:\sell oop\lab_3\exersise_2\obj\Debug\net7.0-windows\exersise_2.dll
+D:\sell oop\lab_3\exersise_2\obj\Debug\net7.0-windows\refint\exersise_2.dll
+D:\sell oop\lab_3\exersise_2\obj\Debug\net7.0-windows\exersise_2.pdb
+D:\sell oop\lab_3\exersise_2\obj\Debug\net7.0-windows\exersise_2.genruntimeconfig.cache
+D:\sell oop\lab_3\exersise_2\obj\Debug\net7.0-windows\ref\exersise_2.dll
+C:\Users\Fanera\Desktop\lab_3\exersise_2\bin\Debug\net7.0-windows\exersise_2.exe
+C:\Users\Fanera\Desktop\lab_3\exersise_2\bin\Debug\net7.0-windows\exersise_2.deps.json
+C:\Users\Fanera\Desktop\lab_3\exersise_2\bin\Debug\net7.0-windows\exersise_2.runtimeconfig.json
+C:\Users\Fanera\Desktop\lab_3\exersise_2\bin\Debug\net7.0-windows\exersise_2.dll
+C:\Users\Fanera\Desktop\lab_3\exersise_2\bin\Debug\net7.0-windows\exersise_2.pdb
+C:\Users\Fanera\Desktop\lab_3\exersise_2\obj\Debug\net7.0-windows\exersise_2.Form1.resources
+C:\Users\Fanera\Desktop\lab_3\exersise_2\obj\Debug\net7.0-windows\exersise_2.csproj.GenerateResource.cache
+C:\Users\Fanera\Desktop\lab_3\exersise_2\obj\Debug\net7.0-windows\exersise_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fanera\Desktop\lab_3\exersise_2\obj\Debug\net7.0-windows\exersise_2.AssemblyInfoInputs.cache
+C:\Users\Fanera\Desktop\lab_3\exersise_2\obj\Debug\net7.0-windows\exersise_2.AssemblyInfo.cs
+C:\Users\Fanera\Desktop\lab_3\exersise_2\obj\Debug\net7.0-windows\exersise_2.csproj.CoreCompileInputs.cache
+C:\Users\Fanera\Desktop\lab_3\exersise_2\obj\Debug\net7.0-windows\exersise_2.dll
+C:\Users\Fanera\Desktop\lab_3\exersise_2\obj\Debug\net7.0-windows\refint\exersise_2.dll
+C:\Users\Fanera\Desktop\lab_3\exersise_2\obj\Debug\net7.0-windows\exersise_2.pdb
+C:\Users\Fanera\Desktop\lab_3\exersise_2\obj\Debug\net7.0-windows\exersise_2.genruntimeconfig.cache
+C:\Users\Fanera\Desktop\lab_3\exersise_2\obj\Debug\net7.0-windows\ref\exersise_2.dll
