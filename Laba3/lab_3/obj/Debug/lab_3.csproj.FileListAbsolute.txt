@@ -1,0 +1,15 @@
+D:\sell oop\lab_3\lab_3\bin\Debug\lab_3.exe.config
+D:\sell oop\lab_3\lab_3\bin\Debug\lab_3.exe
+D:\sell oop\lab_3\lab_3\bin\Debug\lab_3.pdb
+D:\sell oop\lab_3\lab_3\obj\Debug\lab_3.csproj.AssemblyReference.cache
+D:\sell oop\lab_3\lab_3\obj\Debug\lab_3.csproj.SuggestedBindingRedirects.cache
+D:\sell oop\lab_3\lab_3\obj\Debug\lab_3.csproj.CoreCompileInputs.cache
+D:\sell oop\lab_3\lab_3\obj\Debug\lab_3.exe
+D:\sell oop\lab_3\lab_3\obj\Debug\lab_3.pdb
+C:\Users\Fanera\Desktop\lab_3\lab_3\bin\Debug\lab_3.exe.config
+C:\Users\Fanera\Desktop\lab_3\lab_3\bin\Debug\lab_3.exe
+C:\Users\Fanera\Desktop\lab_3\lab_3\bin\Debug\lab_3.pdb
+C:\Users\Fanera\Desktop\lab_3\lab_3\obj\Debug\lab_3.csproj.AssemblyReference.cache
+C:\Users\Fanera\Desktop\lab_3\lab_3\obj\Debug\lab_3.csproj.CoreCompileInputs.cache
+C:\Users\Fanera\Desktop\lab_3\lab_3\obj\Debug\lab_3.exe
+C:\Users\Fanera\Desktop\lab_3\lab_3\obj\Debug\lab_3.pdb
